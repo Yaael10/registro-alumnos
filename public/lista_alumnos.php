@@ -30,6 +30,8 @@ $grupos = $controller->obtenerGrupos();
 
 <head>
     <meta charset="UTF-8" />
+      <link rel="stylesheet" href="style.css">
+
     <title>Lista de Alumnos</title>
 </head>
 
