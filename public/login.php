@@ -11,6 +11,7 @@ if (isset($_SESSION['colaborador'])) {
 <head>
     <meta charset="UTF-8">
     <title>Iniciar Sesión</title>
+      <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Login</h1>
